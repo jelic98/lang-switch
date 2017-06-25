@@ -2,7 +2,7 @@
 Multi-language support for PHP
 
 <b>Description:</b><br/>
-	This is a lightweight multi-language support library for websites wirtten in PHP. Folder "text" contains all translated strings. Folder "logic" contains language getter and setter. Now it's only working with languages, but the plan is to exand it. Feel free to contribute!
+	This is a lightweight multi-language support library for websites written in PHP. Put all strings in one file per language and let the library do the rest. Folder "text" contains all translated strings. Folder "logic" contains language getter and setter. Now it's only working with 2 languages, but the plan is to exand it. Feel free to contribute!
 
 <b>Installation:</b><br/>
   Pull this repository.
