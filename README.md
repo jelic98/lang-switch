@@ -1,4 +1,4 @@
-# lang-switch
+# lang switch
 Multi-language support for PHP
 
 <b>Description:</b><br/>
